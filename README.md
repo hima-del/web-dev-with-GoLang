@@ -18,3 +18,12 @@
 
 * WashingMachine can be an interface with method signatures Cleaning() and Drying(). 
 * Any type which provides definition for Cleaning() and Drying() methods is said to implement the WashingMachine interface.
+
+**Methods in Go**
+
+* A method is just a function with a special receiver type between the func keyword and the method name
+* Methods with the same name can be defined on different types whereas functions with the same names are not allowed.
+* Let's assume that we have a Square and Circle structure. 
+* It's possible to define a method named Area on both Square and Circle. 
+
+
