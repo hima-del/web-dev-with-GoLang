@@ -13,3 +13,8 @@
 * lets assume that the person is jogging and also listening to music in his iPod.
 * In this case the person is jogging and listening to music at the same time, that is he is doing lots of things at the same time. 
 * This is called parallelism.
+
+**What is an interface?**
+
+* WashingMachine can be an interface with method signatures Cleaning() and Drying(). 
+* Any type which provides definition for Cleaning() and Drying() methods is said to implement the WashingMachine interface.
