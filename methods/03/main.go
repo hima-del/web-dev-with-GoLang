@@ -1,0 +1,1 @@
+//pointer recivers vs value recivers
