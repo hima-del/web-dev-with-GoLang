@@ -16,6 +16,7 @@
 
 **What is an interface?**
 
+* When a type provides definition for all the methods in the interface, it is said to implement the interface
 * WashingMachine can be an interface with method signatures Cleaning() and Drying(). 
 * Any type which provides definition for Cleaning() and Drying() methods is said to implement the WashingMachine interface.
 
