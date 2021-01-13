@@ -24,6 +24,6 @@ func main() {
 	}
 	e.chnageName("ani")
 	fmt.Println("name", e.name)
-	(&e).changeAge(30)
+	e.changeAge(30)
 	fmt.Println("age", e.age)
 }
