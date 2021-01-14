@@ -27,4 +27,10 @@
 * Let's assume that we have a Square and Circle structure. 
 * It's possible to define a method named Area on both Square and Circle. 
 
+**rune**
+
+* Rune literals are just 32-bit integer values (however they're untyped constants, so their type can change). 
+* They represent unicode codepoints. 
+* For example, the rune literal 'a' is actually the number 97
+
 
