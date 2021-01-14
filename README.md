@@ -20,6 +20,12 @@
 * WashingMachine can be an interface with method signatures Cleaning() and Drying(). 
 * Any type which provides definition for Cleaning() and Drying() methods is said to implement the WashingMachine interface.
 
+**Empty interface**
+
+* An interface that has zero methods is called an empty interface. 
+* It is represented as interface{}. 
+* Since the empty interface has zero methods, all types implement the empty interface.
+
 **Methods in Go**
 
 * A method is just a function with a special receiver type between the func keyword and the method name
